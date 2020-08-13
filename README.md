@@ -1,5 +1,5 @@
 # queryDATA
-connect and query
+
 
 
 
